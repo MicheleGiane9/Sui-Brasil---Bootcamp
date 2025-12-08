@@ -1,8 +1,8 @@
 <b>BootcampSui Brasil - Dezembro 2025</b> 
 
-Esse repósitorio será mostrados os desafios feitos durante o bootcamp na linguagem MOVE.
+Esse repósitorio será mostrado os desafios feitos durante o bootcamp na linguagem MOVE.
 
-A pasta é única e dentro dela tem outras pastas referente a exercicios e projetos criados.
+O projeto é único, se chama Sui Brasil Bootcamp, dentro dele tem outras pastas referente a exercicios criados e exemplos feitos durante as aulas.
 
 <b>Configurando ambiente</b> 
 
